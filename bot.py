@@ -8,8 +8,8 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, BufferedInputFile
 from aiogram.enums import ParseMode
 
-# ========== ТОКЕН ==========
-BOT_TOKEN = "8987328852:AAHpn8GxI8rI_-_gvx2Gio8ZVjuQ9rqsUzc"
+# ========== ТОКЕН (ЗАМЕНИ НА НОВЫЙ!) ==========
+BOT_TOKEN = "ТВОЙ_НОВЫЙ_ТОКЕН_ЗДЕСЬ"
 
 # ========== ИНИЦИАЛИЗАЦИЯ ==========
 storage = MemoryStorage()
